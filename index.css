@@ -1,0 +1,30 @@
+p.profile-description {
+    font-style: italic;
+    font-size: 1.2rem;
+  }
+  
+  /* Estilos para la imagen con clase 'image-profile' */
+  img.image-profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 5px solid #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Estilos para los encabezados h2 */
+  h2 {
+    color: #007bff;
+  }
+  
+  /* Estilos para la lista no ordenada con clase 'skills' */
+  ul.skills {
+    text-align: left;
+    padding: 0 20px;
+  }
+  
+  /* Estilos para los elementos de la lista no ordenada con clase 'skills' */
+  ul.skills li {
+    margin-bottom: 5px;
+  }
